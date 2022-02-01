@@ -1,1 +1,1 @@
-# Gene-Expression-Programming-Trading-Algorithm-Design-
+# Gene-Expression-Programming-Trading-Algorithm-Design
